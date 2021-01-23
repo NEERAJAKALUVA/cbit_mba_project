@@ -1,0 +1,14 @@
+git-a
+git config user.name"apssdc"
+git remote add remotename url of repository
+git config user.email"user@gmail.com"
+remote-v
+pull remotename master
+touch file.csv
+git status
+git add file.csv
+git commit-m "file.csv added"
+git log
+git push-ugit-basics master
+pwd
+echo 'student marks,roll no'>>file.csv
